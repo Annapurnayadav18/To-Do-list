@@ -1,0 +1,43 @@
+body {
+    background-color: #16C47F;
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    background-color: #FFD65A;
+    height: 100vh;
+    width: 25%;
+    border-radius: 5%;
+}
+
+.content {
+    background-color: #FF9D23;
+    height: 86%;
+    border-radius: 2.5%;
+    margin: 0.75rem;
+}
+
+.input {
+    padding: 10px;
+}
+
+input {
+    width: 150px;
+    height: 1.25rem;
+}
+
+button {
+    width: max;
+    height: 20px;
+    background-color: #F93827;
+    margin-left: 7px;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    margin-bottom: 10px;
+}
